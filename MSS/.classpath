@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="jung/jar/jung-algorithms-2.1.1.jar"/>
+	<classpathentry kind="lib" path="jung/jar/jung-api-2.1.1.jar" sourcepath="jung/src/jung-api-2.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="jung/jar/jung-graph-impl-2.1.1.jar"/>
+	<classpathentry kind="lib" path="jung/jar/jung-io-2.1.1.jar"/>
+	<classpathentry kind="lib" path="jung/jar/jung-samples-2.1.1.jar" sourcepath="jung/src/jung-samples-2.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="jung/jar/jung-visualization-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-20.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
