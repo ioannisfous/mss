@@ -39,7 +39,7 @@ public class SimplestGraph {
 			myG.addVertex(agent);
 		}
 
-		//
+		//abc
 		myG.addEdge(new MEdge(), list.map.get(1), list.map.get(2));
 		
 		System.out.println(myG.toString());
