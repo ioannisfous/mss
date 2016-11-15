@@ -33,7 +33,7 @@ public class NetworkClassTest {
 //		}
 		
 		WattsStrogatz watts = new WattsStrogatz();
-		network = watts.createSmallWorld(20, 6, 0.1);
+		network = watts.createSmallWorld(20, 2, 0.5);
 		
 		Viewer viewer = new Viewer();
 		viewer.showGraph(network);
